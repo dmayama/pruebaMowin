@@ -5,3 +5,8 @@
 .div-buttons.btn{
     margin:5px;
 }
+
+.slider{
+    margin:5px;
+    position: inherit;
+}
