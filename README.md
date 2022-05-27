@@ -3,6 +3,7 @@ Se desarrolla una aplicacion para web y movil usando Angular y plantillas Bootst
 Despliegue en local:
 -Descargar archivos del repositorio GitHub
 -En caso de no contar con angula en su dispositivo remoto debe de realizar la descarga con el comando"npm install -g @angular/cli"  
+-Ejecutar el comando "npm install ng dev-server"
 -Para desplegar la aplicacion en local debe de ejecutar el comando "ng serve --open" en su terminal.
 Despliegue web:
 Ingrese al link ""
